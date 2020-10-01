@@ -2,6 +2,7 @@
 
 This repository contains a set of individual Android Studio projects to help you get
 started with the [Camera APIs](https://developer.android.com/guide/topics/media/camera) in Android.
+This project was a part of my summer internship at Qualcomm.
 
 ## Samples
 
